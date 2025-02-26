@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3119522676",
+    "firebase_url": "https://mobile1-3b0b7-default-rtdb.firebaseio.com",
+    "project_id": "mobile1-3b0b7",
+    "storage_bucket": "mobile1-3b0b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3119522676:android:b28416012cbb9cfd47c221",
+        "android_client_info": {
+          "package_name": "com.example.electronics_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3119522676-61ml57o6l4l95u41tgvm8an029q22sei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.electronics_store",
+            "certificate_hash": "c3047e704e4023705ea06de6dc0fcad8dd7f55be"
+          }
+        },
+        {
+          "client_id": "3119522676-9d2ok1sjhn6n1pqgbra4ajp8vke3j6jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmCqpBKsnC-ogDxDjPNomcbaBlX0lPtCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3119522676-9d2ok1sjhn6n1pqgbra4ajp8vke3j6jp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
